@@ -1,0 +1,26 @@
+body{
+
+    background-color: aquamarine;
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.Youtube {
+    font-size: 20px;
+    color: tomato;
+    
+}
+
+a:hover {
+    background-color: white;
+  }
+
+.tables{
+    background-color: tomato;
+    display: flex;
+}
